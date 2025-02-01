@@ -1,6 +1,5 @@
 # Chicago Attractions App
 ## - Flutter First Attempt
-## UIC CS394
 My first attempt at language Flutter for understanding framework based development for hand held devices.
 In this app I have learned simple use of flutter widgets, making and editing tab bar, working with images and text. 
 ## System Requirements
